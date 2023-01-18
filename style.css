@@ -36,7 +36,7 @@ a.externo::after{
 
 header{
     background-image: linear-gradient(to bottom, var(--cor2), var(--cor4));
-    min-height: 150px;
+    min-height: 191px;
     text-align: center;
     padding-top: 40px;
 }
@@ -65,8 +65,9 @@ header > p{
 nav{
     background-color: var(--cor4);
     padding: 10px;
-    box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.34);
+    font-size: 14px;
     text-align: center;
+    box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.34);
 }
 
 nav > a{
@@ -87,7 +88,7 @@ main{
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     padding: 20px;
     background-color: white;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.499);
@@ -138,12 +139,12 @@ main a:hover{
     color: var(--cor3);
 }
 
-main > img{
+main img{
     width: 100%;
 }
 
-main > img.pequena{
-    max-width: 350px;
+main img.pequena{
+    width: 50%;
     display: block;
     margin: auto;
 }
