@@ -1,4 +1,4 @@
-# html-css
- Materiais e projeto do curso de HTML e CSS (Curso em Vídeo).
+# projeto-android
 
-<a href="https://victormacedov.github.io/projeto-android/" target="_blank">Clique aqui</a> e acesse o primeiro site que desenvolvi - Projeto Android.
+<a href="https://victormacedov.github.io/projeto-android/" target="_blank">Clique aqui</a> e acesse o Projeto Android.
+Feito com os conhecimentos adquiridos no Módulo 1 e 2 do curso de HTML e CSS do Curso em Vídeo. 
